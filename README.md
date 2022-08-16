@@ -1,4 +1,4 @@
-# Labeling-GUI-DukeMTMC-ReID
+# Labeling GUI DukeMTMC-ReID
 A Graphical User Interface for labeling DukeMTMC-reID, which is a subset of the DukeMTMC.
 ## GUI
 <img src = "https://user-images.githubusercontent.com/89969561/184862623-a8ae3662-43e5-4b29-a10a-fcc0a4c4844e.png" width = "90%">
